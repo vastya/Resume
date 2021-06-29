@@ -1,5 +1,5 @@
 {
-  "name": "CV",
+  "name": "cv",
   "version": "1.0.0",
   "description": "Webpack CV Pug",
   "main": "src/home.js",
